@@ -22,7 +22,7 @@
         <!-- Google Maps API Key -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAfp37_lT2yiYnw4oKIEZWd40uSRXbmDyI" />
+            android:value="${MAPS_API_KEY}" />
 
         <!-- FileProvider for Camera -->
         <provider
