@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ParkHere</string>
+    <string name="add_spot">Add Spot</string>
+    <string name="my_location">My Location</string>
+    <string name="spot_available">Available Parking Spot</string>
+    <string name="spot_added">Parking spot added!</string>
+    <string name="spot_removed">Spot marked as taken</string>
+    <string name="location_permission_needed">Location permission is needed to show your position</string>
+    <string name="enable_location">Enable Location</string>
+</resources>

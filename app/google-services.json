@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342985593419",
+    "project_id": "parkhere-e397d",
+    "storage_bucket": "parkhere-e397d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342985593419:android:7bff1b6c67b395e4b473ce",
+        "android_client_info": {
+          "package_name": "com.sal.parkingfinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLH4AL2gAB4y-fy96mFhNke05PUN_enE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
